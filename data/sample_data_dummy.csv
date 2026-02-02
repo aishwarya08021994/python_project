@@ -1,0 +1,8 @@
+id,name,age,country,salary
+1,Alice,30,US,70000
+1,Alice,30,US,70000
+2,Bob,,UK,65000
+3,Charlie,35,US,70000
+3,Charlie,35,US,70000
+4,David,150,IN,50000
+5,,,,
